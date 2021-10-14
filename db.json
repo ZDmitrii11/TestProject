@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "user": {
+        "email": "dima_zol@mail.com",
+        "password": "Operation22"
+      },
+      "id": 1
+    },
+    {
+      "user": {
+        "email": "someuser@mail.com",
+        "password": "Operation55"
+      },
+      "id": 2
+    },
+    {
+      "user": {
+        "email": "asdfadsf@mail.com",
+        "password": "Sysytem2"
+      },
+      "id": 3
+    },
+    {
+      "user": {
+        "email": "dima_dfgdg@mail.com",
+        "password": "Greet234"
+      },
+      "id": 4
+    },
+    {
+      "user": {
+        "email": "dima_zol@mail.com",
+        "password": "Operation22"
+      },
+      "id": 5
+    },
+    {
+      "user": {
+        "email": "Agravat@mail.com",
+        "password": "Operation22"
+      },
+      "id": 6
+    },
+    {
+      "user": {
+        "email": "dima_zol@mail.com",
+        "password": "Operation22"
+      },
+      "id": 7
+    },
+    {
+      "user": {
+        "email": "dima_zol@mail.com",
+        "password": "Operation22"
+      },
+      "id": 8
+    },
+    {
+      "user": {
+        "email": "dima_zol@mail.com",
+        "password": "Operation22"
+      },
+      "id": 9
+    }
+  ]
+}
